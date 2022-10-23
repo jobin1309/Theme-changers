@@ -41,6 +41,7 @@ button {
   color: white;
   border-radius: 20px;
   border: 1px solid black;
+  cursor: pointer;
 }
 .button:hover {
   transform: scale(0.97);
